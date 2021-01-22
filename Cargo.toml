@@ -1,0 +1,9 @@
+[package]
+name = "soccs"
+version = "0.1.0"
+authors = ["post-rex <post-rex@pm.me>"]
+edition = "2018"
+
+[dependencies]
+websocket = "0.26.2"
+term = "0.7.0"
