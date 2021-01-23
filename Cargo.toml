@@ -7,3 +7,4 @@ edition = "2018"
 [dependencies]
 websocket = "0.26.2"
 term = "0.7.0"
+flume = "0.10.1"
