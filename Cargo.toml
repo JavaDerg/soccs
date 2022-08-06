@@ -5,6 +5,6 @@ authors = ["post-rex <post-rex@pm.me>"]
 edition = "2018"
 
 [dependencies]
-websocket = "0.26.2"
+websocket = "0.26.5"
 term = "0.7.0"
 flume = "0.10.1"
